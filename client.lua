@@ -1,4 +1,3 @@
- -- CREATED BY pakis#0753        
 Citizen.CreateThread(function()
     while true do
         SetDiscordAppId(TUDAJESZID) -- tu wklejasz ID aplikacji bota discord z discord.dev
